@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Alive A life",
+  "base_artist": "松本梨香",
+  "createdAt": "2026-01-09T06:59:59.451192Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Alive A life",
+      "artist": "松本梨香",
+      "has_synced": true,
+      "path": "select/01_Alive_A_life_松本梨香.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Alive A life",
+      "artist": "Rika Matsumoto",
+      "has_synced": true,
+      "path": "select/02_Alive_A_life_Rika_Matsumoto.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Alive A life",
+      "artist": "Rica Matsumoto",
+      "has_synced": true,
+      "path": "select/03_Alive_A_life_Rica_Matsumoto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Alive A life(ｵﾘｼﾞﾅﾙ･ｶﾗｵｹ)",
+      "artist": "松本梨香",
+      "has_synced": true,
+      "path": "select/04_Alive_A_life(オリジナル・カラオケ)_松本梨香.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Alive A life",
+      "artist": "仮面ライダー",
+      "has_synced": true,
+      "path": "select/05_Alive_A_life_仮面ライダー.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Alive A life",
+      "artist": "Rica Matsumoto",
+      "has_synced": true,
+      "path": "select/06_Alive_A_life_Rica_Matsumoto.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Go!Now!~Alive A life neo~(『RIDER TIME 仮面ライダー龍騎』主題歌)",
+      "artist": "Rica Matsumoto",
+      "has_synced": true,
+      "path": "select/07_Go!Now!~Alive_A_life_neo~(『RIDER_TIME_仮面ライダー龍騎』主題歌)_Rica_Matsumoto.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Alive A life (仮面ライダー龍騎)",
+      "artist": "松本梨香",
+      "has_synced": true,
+      "path": "select/08_Alive_A_life_(仮面ライダー龍騎)_松本梨香.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Alive A life (RIDER CHIPS Ver.) (Kamen Rider Ryuki)",
+      "artist": "RIDER CHIPS",
+      "has_synced": true,
+      "path": "select/09_Alive_A_life_(RIDER_CHIPS_Ver.)_(Kamen_Rider_Ryuki)_RIDER_CHIPS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Alive A life - RIDER CHIPS Ver.",
+      "artist": "RIDER CHIPS",
+      "has_synced": false,
+      "path": "select/10_Alive_A_life_-_RIDER_CHIPS_Ver._RIDER_CHIPS.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Alive A life",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/11_Alive_A_life_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Alive A life",
+      "artist": "松本梨香",
+      "has_synced": true,
+      "path": "select/12_Alive_A_life_松本梨香.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Go! Now! ～Alive A life neo～",
+      "artist": "松本梨香",
+      "has_synced": true,
+      "path": "select/13_Go!_Now!_~Alive_A_life_neo~_松本梨香.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Alive A life (RIDER CHIPS Ver.)",
+      "artist": "RIDER CHIPS",
+      "has_synced": true,
+      "path": "select/14_Alive_A_life_(RIDER_CHIPS_Ver.)_RIDER_CHIPS.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "alive a life (rider chips ver.) [masked rider ryuki]",
+      "artist": "rider chips",
+      "has_synced": true,
+      "path": "select/15_alive_a_life_(rider_chips_ver.)_[masked_rider_ryuki]_rider_chips.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Alive A life",
+      "artist": "松本梨香",
+      "has_synced": false,
+      "path": "select/pl_01_Alive_A_life_松本梨香.txt"
+    }
+  ]
+}
